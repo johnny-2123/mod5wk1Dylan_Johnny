@@ -27,7 +27,7 @@ Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
 
 1. Create new React app!
-2. cd _art-museum_ and then `npm install react-router-dom` for project.
+2. cd _art-museum_ and then `npm install react-router-dom@^5` for project.
 3. Start your development server.
 4. Create `<Root>` component.
 5. Render `<Root>` component to DOM.
@@ -49,7 +49,7 @@ This command may take a while to run because it should automatically run
 `npm install` for you. Take the time to read ahead while this is running.
 
 **(2)** Once the above command finishes, `cd art-museum` and then `npm install
-react-router-dom` to install the React Router library.
+react-router-dom@^5` to install the React Router library.
 
 **(3)** Start your development server by running:
 
