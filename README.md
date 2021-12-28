@@ -26,7 +26,8 @@ elements to render.
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
 
-1. Create new React app!
+1. Create new React app! Clone the repo from the Download link below and run
+   `npm install`.
 2. cd _art-museum_ and then `npm install react-router-dom@^5` for project.
 3. Start your development server.
 4. Create `<Root>` component.
