@@ -1,4 +1,4 @@
-## Phase 4: Gallery Images
+# Phase 4: Gallery Images
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -10,14 +10,15 @@ instruction below):
    URL `/galleries/:galleryId`.
 
 Let's populate the `GalleryView` with images of the art in the displayed
-gallery. 
+gallery.
 
-**(1)** Add a folder in the _components_ folder called _ArtImageTile_ and make a
-functional component that renders the first image of the art in the gallery.
+**(1)** Add a folder in the __components__ folder called __ArtImageTile__ and
+make a functional component that renders the first image of the art in the
+gallery.
 
 Take a look at the information on the gallery object in `GalleryView`. Is there
 any information inside of it for artwork images? Each artwork should have an
-array of images. 
+array of images.
 
 **(2)** From the `GalleryView` component, map the array of artworks to an array
 of `ArtImageTile`'s. Pass in the artwork information into the `ArtImageTile` as

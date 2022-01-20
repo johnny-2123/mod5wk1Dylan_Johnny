@@ -1,4 +1,4 @@
-## Phase 2: Gallery View
+# Phase 2: Gallery View
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -15,9 +15,9 @@ It's time to make the component that renders the `/galleries/:galleryId` route
 and shows the details about the specific gallery with the matching `galleryId`
 in the URL parameter.
 
-**(1)** Create a folder in _components_ called _GalleryView_ with an _index.js_
-file. Make a functional component called `GalleryView` that renders `<h1>Hello
-from GalleryView</h1>` and export the component as default.
+**(1)** Create a folder in __components__ called __GalleryView__ with an
+__index.js__ file. Make a functional component called `GalleryView` that renders
+`<h1>Hello from GalleryView</h1>` and export the component as default.
 
 **(2)** Import the `GalleryView` component into `App` and render at the
 `/galleries/:galleryId` route. You should use the `<Route>` component from
@@ -45,7 +45,7 @@ this value and make sure it looks correct in the browser's Dev Tools console.
 [See how far you can get with just the documentation][use-params]. Use Progress
 Tracker if you are stuck! Again: the param you are looking for is `galleryId`!
 (You set the parameter's name in the `Route` path that you specified in
-_App.js_.)
+__App.js__.)
 
 **(4)** To get the information on the art gallery with the specified
 `galleryId`, the `<GalleryView>` component needs to find the art gallery from

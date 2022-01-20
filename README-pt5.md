@@ -1,4 +1,4 @@
-## Phase 5: Gallery Art Details
+# Phase 5: Gallery Art Details
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -11,7 +11,7 @@ instruction below):
 5. Render more information about the artwork however you choose.
 
 **(1)** The last component you will create is the `<ArtDescription>` component.
-Set up the component file in the _components_ folder just as you did for the
+Set up the component file in the __components__ folder just as you did for the
 other components you created.
 
 **(2)** This component will be rendered in the `GalleryView` component at the
@@ -24,7 +24,7 @@ down as a prop to `<ArtDescription>`.
 You can also include the name of the gallery in this text.
 
 **(4)** Render the title of the artwork wrapped in an external link to the
-actual artwork page in the Harvard Art Museum. 
+actual artwork page in the Harvard Art Museum.
 
 **(5)** Render all the images of the artwork, the description, credit, and
 technique.

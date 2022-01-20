@@ -1,14 +1,14 @@
-## Phase 3: `Switch`
+# Phase 3: `Switch`
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
 
-1. Create `<Route>` in _App.js_ for the home page.
-2. Create `<Route>` in _App.js_ for 404 errors/unknown paths.
+1. Create `<Route>` in __App.js__ for the home page.
+2. Create `<Route>` in __App.js__ for 404 errors/unknown paths.
 
-Make two more routes in the `App` component: 
+Make two more routes in the `App` component:
 
-**(1)** One for the home page at `/` and 
+**(1)** One for the home page at `/` and
 
 **(2)** One for "Page Not Found" 404 errors.
 
