@@ -1,4 +1,4 @@
-# Phase 5: Gallery Art Details
+# Art Museum, Phase 5: Gallery Art Details
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -59,12 +59,3 @@ project!
 CSS is an important part of any web application project. Take some time to style
 your project! Add cool hover effects with tooltips or animations if you want
 more of a challenge!
-
-[http://localhost:3000]: http://localhost:3000
-[Harvard Art Museum API]: https://www.harvardartmuseums.org/collections/api
-[Harvard Art Museum seed file]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/projects/art-museum/harvardArt.js
-[navlink]: https://reactrouter.com/web/api/NavLink
-[key]: https://reactjs.org/docs/lists-and-keys.html
-[route]: https://reactrouter.com/web/api/Route
-[use-params]: https://reactrouter.com/web/api/Hooks/useparams
-[switch]: https://reactrouter.com/web/api/Switch

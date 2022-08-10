@@ -1,4 +1,3 @@
-
 # Art Museum Project
 
 In this project, you will create React components to build a purely frontend
@@ -27,7 +26,7 @@ Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
 
 1. Create a new React project called `art-museum` using `create-react-app`!
-2. `cd __art-museum__` and then `npm install react-router-dom@^5` for project.
+2. `cd art-museum` and then `npm install react-router-dom@^5` for project.
 3. Start your development server.
 4. Create `<Root>` component.
 5. Render `<Root>` component to DOM.
@@ -124,9 +123,9 @@ from App".
 
 **(8)** Make a folder in __src__ called __data__.
 
-**(9)** Create a file to contain the art data inside the newly created `data`
-folder, the file should be called __harvardArt.js__. You can run the following
-command from the root of your project, in the __art-museum__ directory.
+__(9)__ To contain the art data, create a file called __harvardArt.js__ inside
+the newly created __data__ folder. You can run the following command from the
+root of your project, in the __art-museum__ directory.
 
 ```sh
 curl https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/projects/art-museum/harvardArt.js > src/data/harvardArt.js
@@ -262,9 +261,5 @@ route.
 
 [http://localhost:3000]: http://localhost:3000
 [Harvard Art Museum API]: https://www.harvardartmuseums.org/collections/api
-[Harvard Art Museum seed file]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/projects/art-museum/harvardArt.js
 [navlink]: https://reactrouter.com/web/api/NavLink
 [key]: https://reactjs.org/docs/lists-and-keys.html
-[route]: https://reactrouter.com/web/api/Route
-[use-params]: https://reactrouter.com/web/api/Hooks/useparams
-[switch]: https://reactrouter.com/web/api/Switch

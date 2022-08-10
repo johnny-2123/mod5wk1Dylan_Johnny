@@ -1,4 +1,4 @@
-# Phase 4: Gallery Images
+# Art Museum, Phase 4: Gallery Images
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -64,12 +64,3 @@ Test out your code by navigating to an art gallery from the navigation bar.
 The images for each of the artwork in that art gallery should be rendered. If
 you click on one of the images, the path should reflect the
 `/galleries/:galleryId/art/:artId` pattern.
-
-[http://localhost:3000]: http://localhost:3000
-[Harvard Art Museum API]: https://www.harvardartmuseums.org/collections/api
-[Harvard Art Museum seed file]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/projects/art-museum/harvardArt.js
-[navlink]: https://reactrouter.com/web/api/NavLink
-[key]: https://reactjs.org/docs/lists-and-keys.html
-[route]: https://reactrouter.com/web/api/Route
-[use-params]: https://reactrouter.com/web/api/Hooks/useparams
-[switch]: https://reactrouter.com/web/api/Switch

@@ -1,4 +1,4 @@
-# Phase 2: Gallery View
+# Art Museum, Phase 2: Gallery View
 
 Here's a breakdown of the steps you'll be taking in this phase (more detailed
 instruction below):
@@ -72,11 +72,5 @@ Tips for Step 4 and 5:
 that the name changes whenever you navigate to a different gallery from the
 navigation bar.
 
-[http://localhost:3000]: http://localhost:3000
-[Harvard Art Museum API]: https://www.harvardartmuseums.org/collections/api
-[Harvard Art Museum seed file]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/projects/art-museum/harvardArt.js
-[navlink]: https://reactrouter.com/web/api/NavLink
-[key]: https://reactjs.org/docs/lists-and-keys.html
 [route]: https://reactrouter.com/web/api/Route
 [use-params]: https://reactrouter.com/web/api/Hooks/useparams
-[switch]: https://reactrouter.com/web/api/Switch
