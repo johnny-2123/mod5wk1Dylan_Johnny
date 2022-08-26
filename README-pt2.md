@@ -28,12 +28,12 @@ Tips for Step 2:
 - Remember your `<NavLink>`s in `<GalleryNavigation>`? This `<Route>` is where
   they will lead!
 - You will need to use both the `<Route>` and `<GalleryView>` components in
-  `App.js`.
-- Now that another element is being added to `App.js`, you will need to wrap
+  __App.js__.
+- Now that another element is being added to __App.js__, you will need to wrap
   `<GalleryNavigation>` and `<Route>` in something. We use `<div>` with a
   `className` "page-wrapper".
 - The `path` prop of the `<Route>` component works a lot like the definition of
-  an Express route!
+  a regular backend route!
 - Submit a Progress Tracker question if you get stuck!
 
 Click on a link to a gallery in the navigation bar and you should see the text,
