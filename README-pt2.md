@@ -72,5 +72,5 @@ Tips for Step 4 and 5:
 that the name changes whenever you navigate to a different gallery from the
 navigation bar.
 
-[route]: https://reactrouter.com/web/api/Route
-[use-params]: https://reactrouter.com/web/api/Hooks/useparams
+[route]: https://v5.reactrouter.com/web/api/Route
+[use-params]: https://v5.reactrouter.com/web/api/Hooks/useparams
