@@ -8,9 +8,8 @@ function App() {
     <div>
       <h1>Hello from App</h1>
 
-      <Route to='/components'>
+      <Route path='/components'>
         <GalleryNavigation galleries={harvardArt.records} />
-        {console.log(harvardArt.records)}
       </Route>
 
     </div>
